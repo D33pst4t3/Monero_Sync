@@ -1,0 +1,13 @@
+Installation
+
+Download all the files.
+
+Download and install 7zip "https://www.7-zip.org/download.html".
+
+For windows extract "lmdb.zip.001" to "%APPDATA%\bitmonero".
+
+For linux extract "lmdb.zip.001" to "$HOME/.bitmonero".
+
+For macOS extract "lmdb.zip.001" to "$HOME/Library/Application Support/bitmonero".
+
+Done.
